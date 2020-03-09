@@ -1,6 +1,10 @@
 # Unity Weapon Customization Tutorial (Finished)
 Finished version of [Unity Tutorial Weapon Customization Start](https://github.com/rico345100/unity-tutorial-weapon-customization-start).
 
+- [Part 1](https://youtu.be/7jBEPU-FW7k)
+- [Part 2](https://youtu.be/AV3TQWmZXmg)
+- [Part 3](https://youtu.be/SO7np29MQSA)
+
 ## Finished of what..?
 This project is final version which follow this tutorial video:
 
