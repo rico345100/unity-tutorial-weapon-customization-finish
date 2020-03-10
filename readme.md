@@ -5,9 +5,6 @@ Finished version of [Unity Tutorial Weapon Customization Start](https://github.c
 - [Part 2](https://youtu.be/AV3TQWmZXmg)
 - [Part 3](https://youtu.be/SO7np29MQSA)
 
-## Finished of what..?
-This project is final version which follow this tutorial video:
-
 
 ## How to open?
 I used Unity 2019.1.0f2 to create this project. You can try open with different version but that's not recommended.
